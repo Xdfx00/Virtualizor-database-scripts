@@ -42,6 +42,7 @@ Each run generates:
 ### Step 1: Download the Script
 
 ```bash
-curl -O https://raw.githubusercontent.com/<your-username>/<your-repo>/main/db_password_change.sh
+git clone https://github.com/Xdfx00/Virtualizor-database-scripts.git
+cd virtualizor-db-password-rotator
 chmod +x db_password_change.sh
 ./db_password_change.sh
