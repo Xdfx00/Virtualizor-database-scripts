@@ -4,6 +4,11 @@ A secure Bash script to **automatically rotate MySQL root password** for Virtual
 
 ---
 
+🛑 Important Notes
+Ensure no Virtualizor operations are running during execution.
+
+---
+
 ## 📜 About
 
 This script is designed for **Virtualizor installations using the EMPS stack** (Embedded MySQL + PHP stack) and performs the following actions:
