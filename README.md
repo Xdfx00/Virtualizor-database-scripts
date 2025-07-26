@@ -43,6 +43,6 @@ Each run generates:
 
 ```bash
 git clone https://github.com/Xdfx00/Virtualizor-database-scripts.git
-cd virtualizor-db-password-rotator
+cd Virtualizor-database-scripts
 chmod +x db_password_change.sh
 ./db_password_change.sh
